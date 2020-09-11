@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protear.SingnalRExample", "Protear.SingnalRExample\Protear.SingnalRExample.csproj", "{08C4C528-3E08-4CD2-B785-1448C28DAD58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C4C528-3E08-4CD2-B785-1448C28DAD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C4C528-3E08-4CD2-B785-1448C28DAD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C4C528-3E08-4CD2-B785-1448C28DAD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C4C528-3E08-4CD2-B785-1448C28DAD58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8DF66B-2233-4A1D-9932-230A513D3DDF}
+	EndGlobalSection
+EndGlobal
