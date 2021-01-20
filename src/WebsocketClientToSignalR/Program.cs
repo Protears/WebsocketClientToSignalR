@@ -216,7 +216,7 @@ namespace WebsocketClientToSignalR
         /// </summary>
         Invocation = 1,
         /// <summary>
-        /// 指示来自上StreamInvocation一条消息的流响应数据的单个项，或来自具有streamIds的调用的流上传的单个项
+        /// 指示来自上一条StreamInvocation消息的流响应数据的单个项，或来自具有streamIds的调用的流上传的单个项
         /// </summary>
         StreamItem = 2,
         /// <summary>
